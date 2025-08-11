@@ -35,8 +35,9 @@ A 3D visualisation of the fractured bone enhances user understanding of the diag
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/bone-fracture-detector.git
-cd bone-fracture-detector
+ git clone https://github.com/your-username/Ai-Xray-Analyzer-using-Convolutional-Neural-Networks-CNN-.git
+ cd Ai-Xray-Analyzer-using-Convolutional-Neural-Networks-CNN-
+
 ```
 
 2. **Install Dependencies**
