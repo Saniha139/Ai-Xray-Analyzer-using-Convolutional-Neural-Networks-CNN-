@@ -18,11 +18,11 @@ A 3D visualisation of the fractured bone enhances user understanding of the diag
 * Googletrans (translation)
 # How to Run
 1.Clone the Repository
-git clone https://github.com/your-username/bone-fracture-detector.git
-cd bone-fracture-detector
+  git clone https://github.com/your-username/bone-fracture-detector.git
+  cd bone-fracture-detector
 2.Install Dependencies
-pip install -r requirements.txt
+  pip install -r requirements.txt
 3.Download or Place the Model Weights Ensure your trained PyTorch model (boneFrac.pt) is placed in the correct path and update it in the code:
-model = torch.load('path/to/boneFrac.pt')
+  model = torch.load('path/to/boneFrac.pt')
 4.Run the App
-python app.py
+  python app.py
