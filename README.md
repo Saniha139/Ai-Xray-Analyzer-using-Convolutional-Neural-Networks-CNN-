@@ -28,7 +28,7 @@ A 3D visualisation of the fractured bone enhances user understanding of the diag
 
 ---
 
-### 🚀 How to Run
+### How to Run
 
 1. **Clone the Repository**
 
@@ -59,7 +59,7 @@ python app.py
 
 ---
 
-### 👤 Author
+### Author
 
 **Saniha Manjunath**
 GitHub: [@saniha139](https://github.com/saniha139)
