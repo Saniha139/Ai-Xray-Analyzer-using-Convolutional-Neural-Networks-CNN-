@@ -25,8 +25,6 @@ A 3D visualisation of the fractured bone enhances user understanding of the diag
 * gTTS & pyttsx3 (text-to-speech)
 * Open3D (3D visualization)
 * Googletrans (translation)
-  git clone https://github.com/your-username/Ai-Xray-Analyzer-using-Convolutional-Neural-Networks-CNN-.git
-  cd bone-fracture-detector
 
 ---
 
