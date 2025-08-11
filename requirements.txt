@@ -1,0 +1,10 @@
+torch
+torchvision
+opencv-python
+pillow
+numpy
+pyttsx3
+gtts
+playsound
+googletrans==4.0.0rc1
+open3d
